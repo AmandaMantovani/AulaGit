@@ -1,2 +1,3 @@
 Arquivo 2
-Correção de bug
+Atualização e Alteração de bug
+Teste merge
