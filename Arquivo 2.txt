@@ -1,4 +1,3 @@
 Arquivo 2
 Atualização e Alteração de bug
 Teste merge
-Merge teste
