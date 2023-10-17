@@ -1,2 +1,2 @@
 Arquivo 2
-Correção de bug
+Alteração de bug
